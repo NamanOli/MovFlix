@@ -8,7 +8,10 @@ Basic React-Redux App that can be used to search a particular movie and add it t
 - Add movies from search results to movies list.
 
 ## Screenshots   
- <img src="https://user-images.githubusercontent.com/53824950/127803914-597f3790-99ff-44e6-b858-ba956ac2ccdc.png" width=500><img src="https://user-images.githubusercontent.com/53824950/127804198-25181933-2583-4e12-9ce5-83ec44f17eb4.png" width=500><img src="https://user-images.githubusercontent.com/53824950/127804251-2f3e524f-44da-4b9e-997a-3537c1d6536c.png" width=500><img src="https://user-images.githubusercontent.com/53824950/127804281-b20b565b-99e3-41a3-88b3-1282f2395c9b.png" width=500>
+ <img src="https://user-images.githubusercontent.com/53824950/127803914-597f3790-99ff-44e6-b858-ba956ac2ccdc.png" width=500>
+ <img src="https://user-images.githubusercontent.com/53824950/127804198-25181933-2583-4e12-9ce5-83ec44f17eb4.png" width=500>
+ <img src="https://user-images.githubusercontent.com/53824950/127804251-2f3e524f-44da-4b9e-997a-3537c1d6536c.png" width=500>
+ <img src="https://user-images.githubusercontent.com/53824950/127804281-b20b565b-99e3-41a3-88b3-1282f2395c9b.png" width=500>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
