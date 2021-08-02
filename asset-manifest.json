@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MovFlix/static/css/main.2e5ac4c4.chunk.css",
+    "main.js": "/MovFlix/static/js/main.a63ca202.chunk.js",
+    "main.js.map": "/MovFlix/static/js/main.a63ca202.chunk.js.map",
+    "runtime-main.js": "/MovFlix/static/js/runtime-main.9362a5fe.js",
+    "runtime-main.js.map": "/MovFlix/static/js/runtime-main.9362a5fe.js.map",
+    "static/js/2.cf1e881b.chunk.js": "/MovFlix/static/js/2.cf1e881b.chunk.js",
+    "static/js/2.cf1e881b.chunk.js.map": "/MovFlix/static/js/2.cf1e881b.chunk.js.map",
+    "index.html": "/MovFlix/index.html",
+    "precache-manifest.04b333a9967d521951ab9bed433c3abb.js": "/MovFlix/precache-manifest.04b333a9967d521951ab9bed433c3abb.js",
+    "service-worker.js": "/MovFlix/service-worker.js",
+    "static/css/main.2e5ac4c4.chunk.css.map": "/MovFlix/static/css/main.2e5ac4c4.chunk.css.map",
+    "static/js/2.cf1e881b.chunk.js.LICENSE.txt": "/MovFlix/static/js/2.cf1e881b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9362a5fe.js",
+    "static/js/2.cf1e881b.chunk.js",
+    "static/css/main.2e5ac4c4.chunk.css",
+    "static/js/main.a63ca202.chunk.js"
+  ]
+}
