@@ -1,14 +1,11 @@
 # MovFlix
-Basic React-Redux App that can be used to searcha particular movie and add it to your favorite list. 
+Basic React-Redux App that can be used to search a particular movie and add it to your favorite list. 
 ![video-eth](https://user-images.githubusercontent.com/53824950/127803598-e0c7f691-ac03-48ef-9147-746e465b0f1b.png)
 
 ## Features
 - Liked any movie, Add it to your favourite list.
 - OMDB API for searching new movies.
 - Add movies from search results to movies list.
-
-
-
 
 ## Screenshots   
  ![image](https://user-images.githubusercontent.com/53824950/127803914-597f3790-99ff-44e6-b858-ba956ac2ccdc.png)
