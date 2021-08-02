@@ -1,14 +1,21 @@
 # MovFlix
-A basic React and Redux base app to list movies and add them to favourites.
+Basic React-Redux App that can be used to searcha particular movie and add it to your favorite list. 
 
 
 
 ## Features
-1. Add a particular movie to Favourites
-2. search for new movies (OMDB API USED)
-3. Add movies from search results to movies list.
+- Liked any movie, Add it to your favourite list.
+- OMDB API for searching new movies.
+- Add movies from search results to movies list.
 
-Database is not used in this project. Data will be lost on refreshing the page.
+
+![video-eth](https://user-images.githubusercontent.com/53824950/127803598-e0c7f691-ac03-48ef-9147-746e465b0f1b.png)
+
+## Screenshots
+- ![image](https://user-images.githubusercontent.com/53824950/127803914-597f3790-99ff-44e6-b858-ba956ac2ccdc.png)
+- ![image](https://user-images.githubusercontent.com/53824950/127804198-25181933-2583-4e12-9ce5-83ec44f17eb4.png)
+- ![image](https://user-images.githubusercontent.com/53824950/127804251-2f3e524f-44da-4b9e-997a-3537c1d6536c.png)
+- ![image](https://user-images.githubusercontent.com/53824950/127804281-b20b565b-99e3-41a3-88b3-1282f2395c9b.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
